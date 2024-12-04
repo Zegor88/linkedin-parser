@@ -36,5 +36,5 @@
 - **Обновление структуры:** LinkedIn может изменять структуру своих страниц, поэтому XPath и классы элементов могут потребовать обновления.
 
 ## Авторы
-Скрипт основан на примерах из репозиториев [SOURCE #1](https://github.com/laxmimerit/LinkedIn-Profile-Scrapper-in-Python) и [SOURCE #2](https://github.com/MariyaSha/WebScraping_Linkedin), с доработками и дополнениями.
+Скрипт основан на примерах из репозиториев [LinkedIn-Profile-Scrapper-in-Python](https://github.com/laxmimerit/LinkedIn-Profile-Scrapper-in-Python) и [WebScraping_Linkedin](https://github.com/MariyaSha/WebScraping_Linkedin), с доработками и дополнениями.
 
