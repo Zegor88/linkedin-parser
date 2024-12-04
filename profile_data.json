@@ -1,0 +1,213 @@
+{
+    "name": "Egor Zubenko",
+    "url": "https://www.linkedin.com/in/zubenkoey/",
+    "headline": "Business System Analyst @ Webvork | Python, SQL, OpenAI",
+    "About": "I'm an Analyst with a strong background in the upstream sector of Oil&Gas industry as a Petroleum Engineer, and Business Analysis for IT projects. Currently, I am involved in various IT projects, such as conducting a comprehensive CRM system analysis, proposing a new algorithm for assigning orders to call center operators, and describing a system feature that enables data-driven decision making. I would like to move on and develop in the field of business and data analysis, implement AI solutions and develop IT products.",
+    "Experience": [
+        {
+            "company": "Webvork ",
+            "position": "Business System AnalystBusiness System Analyst",
+            "workin_period": "Apr 2023 - Present ",
+            "duration": " 1 yr 9 mos",
+            "description": "As a Business Analyst and Data Specialist, I've leveraged my expertise in Python, SQL, and OpenAI's API to drive company profitability through meticulous data analysis and process optimization.Here's a snapshot of my core accomplishments:- Conducted a comprehensive CRM system analysis, delineating key features for system expansion into PMS, WMS, SCM, etc., and crafting a strategic roadmap for feature distribution across overlapping functionalities.- Designed and implemented agent-based and multi-agent systems utilizing RAG (Retrieval-Augmented Generation) with database integration capabilities, ensuring efficient data retrieval and analysis for decision-making processes.- Described a system feature that enables data forecasting using statistical methods (WMA, Exp.Smoothing) and ML (LR, ARIMA, RF). This functionality was applied for:- - KPI monitoring, including forecasting key indicators at the end of the accounting period.- - Forecasting demand and inventory levels of ingredients in warehouses, ensuring efficient inventory management.As a Business Analyst and Data Specialist, I've leveraged my expertise in Python, SQL, and OpenAI's API to drive company profitability through meticulous data analysis and process optimization.\nHere's a snapshot of my core accomplishments:\n- Conducted a comprehensive CRM system analysis, delineating key features for system expansion into PMS, WMS, SCM, etc., and crafting a strategic roadmap for feature distribution across overlapping functionalities.\n- Designed and implemented agent-based and multi-agent systems utilizing RAG (Retrieval-Augmented Generation) with database integration capabilities, ensuring efficient data retrieval and analysis for decision-making processes.\n- Described a system feature that enables data forecasting using statistical methods (WMA, Exp.Smoothing) and ML (LR, ARIMA, RF). This functionality was applied for:\n - - KPI monitoring, including forecasting key indicators at the end of the accounting period.\n - - Forecasting demand and inventory levels of ingredients in warehouses, ensuring efficient inventory management.",
+            "skills": "Skills:Forecasting · Large Language Models (LLM) · Python · Business Analytics · Business Intelligence (BI) · Artificial Intelligence (AI) · Prompt Engineering · Data Visualization (DataViz) · Demand ForecastingSkills:Forecasting · Large Language Models (LLM) · Python · Business Analytics · Business Intelligence (BI) · Artificial Intelligence (AI) · Prompt Engineering · Data Visualization (DataViz) · Demand Forecasting"
+        },
+        {
+            "company": "AlderaSoft ",
+            "position": "Senior AnalystSenior Analyst",
+            "workin_period": "Aug 2022 - Mar 2023 ",
+            "duration": " 8 mos",
+            "description": "As a System Analyst, I have effectively contributed to various projects including the development of an ETL system, advanced data visualization analytics tools, production calculators, PMS (property management system) for hotels, and applications featuring video content viewing functions.My key responsibilities in these projects included developing a project concept through a conceptual model (BPMN), outlining the main functions of the system (user story) and developing detailed specifications such as use cases, functional and non-functional requirements along with UML diagrams. I was also involved in prototyping using figma and draw.io, and setting tasks for development while continuously monitoring adherence to acceptance criteria.Throughout my work, I have gained proficiency in several crucial tools such as Swagger, Postman, Jira, Confluence, YandexTracker, YandexWiki and more.As a System Analyst, I have effectively contributed to various projects including the development of an ETL system, advanced data visualization analytics tools, production calculators, PMS (property management system) for hotels, and applications featuring video content viewing functions.\nMy key responsibilities in these projects included developing a project concept through a conceptual model (BPMN), outlining the main functions of the system (user story) and developing detailed specifications such as use cases, functional and non-functional requirements along with UML diagrams. I was also involved in prototyping using figma and draw.io, and setting tasks for development while continuously monitoring adherence to acceptance criteria.\nThroughout my work, I have gained proficiency in several crucial tools such as Swagger, Postman, Jira, Confluence, YandexTracker, YandexWiki and more.",
+            "skills": "N/A"
+        },
+        {
+            "company": "Gazpromneft - Vostok ",
+            "position": "Petroleum Engineer | Chief Concept EngineerPetroleum Engineer | Chief Concept Engineer",
+            "workin_period": "May 2018 - Aug 2022 ",
+            "duration": " 4 yrs 4 mos",
+            "description": "The key task is the technical and economic assessment of the company's new assets, including: conceptual design, development of asset infrastructure, assessment of capital and operating costs, formation of a financial and economic model, presentation of results on key production and economic indicators.Duties:•\tConceptual design of development and infrastructure facilities - the conceptual design of one of the licensed blocks allowed to reduce costs by $4 million through the use of an optimal gathering system;•\tFeasibility study of new (alternative) development options;•\tCollection of data on forecast production indicators and capital investments of the company in ERA:ISKRA;•\tAnalysis of changes in forecast indicators (KPI) - developed an Excel macro file using VBA, which allows, taking into account the variability of the initial data, to evaluate the KPI of the project, sensitivity analysis, which reduced the time for preparing similar reports and making decisions by 80%;•\tCost engineering;•\tPreparing a presentation report (including presentation to foreign shareholders).The key task is the technical and economic assessment of the company's new assets, including: conceptual design, development of asset infrastructure, assessment of capital and operating costs, formation of a financial and economic model, presentation of results on key production and economic indicators.\n\nDuties:\n•\tConceptual design of development and infrastructure facilities - the conceptual design of one of the licensed blocks allowed to reduce costs by $4 million through the use of an optimal gathering system;\n•\tFeasibility study of new (alternative) development options;\n•\tCollection of data on forecast production indicators and capital investments of the company in ERA:ISKRA;\n•\tAnalysis of changes in forecast indicators (KPI) - developed an Excel macro file using VBA, which allows, taking into account the variability of the initial data, to evaluate the KPI of the project, sensitivity analysis, which reduced the time for preparing similar reports and making decisions by 80%;\n•\tCost engineering;\n•\tPreparing a presentation report (including presentation to foreign shareholders).",
+            "skills": "Skills:Financial Modeling · Forecasting · Oil and Gas Engineering · Oil & Gas · Presentation Skills · VBA · Data Visualization (DataViz) · Demand ForecastingSkills:Financial Modeling · Forecasting · Oil and Gas Engineering · Oil & Gas · Presentation Skills · VBA · Data Visualization (DataViz) · Demand Forecasting"
+        },
+        {
+            "company": "SSP Software ",
+            "position": "Business System AnalystBusiness System Analyst",
+            "workin_period": "Jan 2017 - Apr 2018 ",
+            "duration": " 1 yr 4 mos",
+            "description": "I was engaged in сollection and preparation of analytics for an automated information system for managing field data and production processes in oil, gas and gas condensate fields..Duties:•\tInteraction with Customers to collect requirements for the system (business trips, conducting face-to-face surveys of work processes and their description, etc.);•\tDescription and comparative analysis of the results obtained;•\tFormation of requirements, user scenarios and a unified solution for the functions of the developed System;•\tElaboration of methods and algorithms of the System functions (calculation of the optimal technological regime, analysis of the Field Development Plan, selection of wells for geological and technical operations, drawing up a research and well workover plan, etc.);•\tCarrying out the necessary recalculations within the System, taking into account the conducted studies (flow testing, gas condensate studies, field geophysical tests, deep measurements) and PVT studies (EoS, Black Oil);•\tInteraction with a team of programmers and coordination of the implementation of work stages;•\tAnalysis of system operation errors and search for their solution;•\tWriting reports, specifications and component technical specifications;•\tTesting of the System with subsequent demonstration and thesis defense for the Customer.I was engaged in сollection and preparation of analytics for an automated information system for managing field data and production processes in oil, gas and gas condensate fields..\n\nDuties:\n•\tInteraction with Customers to collect requirements for the system (business trips, conducting face-to-face surveys of work processes and their description, etc.);\n•\tDescription and comparative analysis of the results obtained;\n•\tFormation of requirements, user scenarios and a unified solution for the functions of the developed System;\n•\tElaboration of methods and algorithms of the System functions (calculation of the optimal technological regime, analysis of the Field Development Plan, selection of wells for geological and technical operations, drawing up a research and well workover plan, etc.);\n•\tCarrying out the necessary recalculations within the System, taking into account the conducted studies (flow testing, gas condensate studies, field geophysical tests, deep measurements) and PVT studies (EoS, Black Oil);\n•\tInteraction with a team of programmers and coordination of the implementation of work stages;\n•\tAnalysis of system operation errors and search for their solution;\n•\tWriting reports, specifications and component technical specifications;\n•\tTesting of the System with subsequent demonstration and thesis defense for the Customer.",
+            "skills": "Skills:Business Analysis · Data Analysis · Oil & Gas · Business Analytics · Demand ForecastingSkills:Business Analysis · Data Analysis · Oil & Gas · Business Analytics · Demand Forecasting"
+        },
+        {
+            "company": "Siam-Engineering ",
+            "position": "Reservoir EngineerReservoir Engineer",
+            "workin_period": "Nov 2012 - Jan 2017 ",
+            "duration": " 4 yrs 3 mos",
+            "description": "The key task was a comprehensive analysis of the current state of oil field development, identifying candidate wells and the selection of measures to increase oil recovery and stimulate wells.Duties:•\tAnalysis of the current state of field development, including analysis of the reasons for the decline in oil production, changes in reservoir pressure, determination of the causes of water cut in wells;•\tIssuance of recommendations for the study and repair of wells;•\tOptimization of the field development system;•\tOil depletion analysis;•\tAnalytical calculations of the effectiveness of geological and technical measures.The key task was a comprehensive analysis of the current state of oil field development, identifying candidate wells and the selection of measures to increase oil recovery and stimulate wells.\n\nDuties:\n•\tAnalysis of the current state of field development, including analysis of the reasons for the decline in oil production, changes in reservoir pressure, determination of the causes of water cut in wells;\n•\tIssuance of recommendations for the study and repair of wells;\n•\tOptimization of the field development system;\n•\tOil depletion analysis;\n•\tAnalytical calculations of the effectiveness of geological and technical measures.",
+            "skills": "Skills:Oil and Gas Engineering · Oil & Gas · Presentation Skills · Reservoir Engineering · VBA · Data Visualization (DataViz)Skills:Oil and Gas Engineering · Oil & Gas · Presentation Skills · Reservoir Engineering · VBA · Data Visualization (DataViz)"
+        },
+        {
+            "company": "Сибирская Сервисная Компания ",
+            "position": "Chief Engineer | Well Completion EngineerChief Engineer | Well Completion Engineer",
+            "workin_period": "Jan 2011 - Nov 2012 ",
+            "duration": " 1 yr 11 mos",
+            "description": "•\tTechnological support for cementing directional, horizontal wells;•\tTechnological support for cementing sidetracks (liners);•\tPreparation of documents on the well cementing report;•\tDrawing up well cementing programs;•\tProtection of reports to the Customer.•\tTechnological support for cementing directional, horizontal wells;\n•\tTechnological support for cementing sidetracks (liners);\n•\tPreparation of documents on the well cementing report;\n•\tDrawing up well cementing programs;\n•\tProtection of reports to the Customer.",
+            "skills": "Skills:Oil & GasSkills:Oil & Gas"
+        },
+        {
+            "company": "Imperial Energy ",
+            "position": "Field Operator | Oil and Gas Production EngineerField Operator | Oil and Gas Production Engineer",
+            "workin_period": "Aug 2009 - Dec 2010 ",
+            "duration": " 1 yr 5 mos",
+            "description": "•\tMaintenance of the technological process for all methods of oil, gas and gas condensate production;•\tImplementation of work to maintain the specified operating mode of wells, group metering units and other facilities related to the technology of oil, gas and gas condensate production;•\tMaintenance of well communications;•\tEquipment metering.•\tMaintenance of the technological process for all methods of oil, gas and gas condensate production;\n•\tImplementation of work to maintain the specified operating mode of wells, group metering units and other facilities related to the technology of oil, gas and gas condensate production;\n•\tMaintenance of well communications;\n•\tEquipment metering.",
+            "skills": "Skills:Oil and Gas Engineering · Oil & GasSkills:Oil and Gas Engineering · Oil & Gas"
+        }
+    ],
+    "Education": [
+        {
+            "university": "Heriot-Watt University",
+            "degree": "Master of Science (MSc), Petroleum Engineering",
+            "dates": "2015 - 2016",
+            "details": [
+                "Activities and societies: Participant of the best Field Development Project (1st place)",
+                "Graduation thesis: “Uncertainty reduction of drilling wells at the Field A”",
+                "Skills: Oil and Gas Engineering · Reservoir Engineering · Oil & Gas",
+                "Diploma"
+            ],
+            "certificates": [
+                "Heriot-Watt University",
+                "Diploma"
+            ]
+        },
+        {
+            "university": "Peter the Great St.Petersburg Polytechnic University",
+            "degree": "Postgraduate Degree, Intelligent Systems",
+            "dates": "Feb 2023 - Jun 2023",
+            "details": [
+                "Grade: A",
+                "Activities and societies: - High-level Design of Information Control Systems - Project Management - Corporate Information Systems - Intelligent Systems - Software Development Technologies (ML) - Group Project: Safety Helmet Detection expert system - Individual Project: Modelling the system of Permeate neutralisation plant N1",
+                "A Group Project goal Develop an expert system for recognizing the wearing of safety helmets based on incoming data (photo) that returns a response within an acceptable time frame and with minimal losses. Tasks: - Create use case, swimlane, IDEF0 diagrams - Choose an appropriate architecture - Train a model (Yolo5, CNN) - Create a telegram bot and apply a chosen model Additionally, completed an individual project modeling high-level and low-level design for the Permeate Neutralisation Plant N1 using UML and CodeSys, enhancing skills in system analysis and automation.",
+                "Skills: Python · Business Analytics",
+                "Human Machine Interface - Individual Project",
+                "Application of the models - Group Project",
+                "Certificate"
+            ],
+            "certificates": [
+                "Peter the Great St.Petersburg Polytechnic University",
+                "Human Machine Interface - Individual Project",
+                "Application of the models - Group Project",
+                "Certificate"
+            ]
+        },
+        {
+            "university": "Tomsk Polytechnic University",
+            "degree": "Магистр/ MSc, Разработка нефтяных и газовых месторождений/ Reservoir Engineering",
+            "dates": "2005 - 2011",
+            "details": [
+                "Skills: Oil and Gas Engineering · Reservoir Engineering"
+            ],
+            "certificates": [
+                "Tomsk Polytechnic University"
+            ]
+        }
+    ],
+    "Certification": [
+        {
+            "certification_name": "Build a Machine Learning Model Skill Path",
+            "issuer": "Codecademy",
+            "issue_date": "Issued Nov 2024",
+            "credential_id": "N/A",
+            "skills": "Artificial Intelligence (AI) · Python",
+            "certificates_or_media": [
+                "Build a Machine Learning Model Skill Path",
+                "Certificate | Codecademy.pdf",
+                "Ml_Capstone_Project at GitHub"
+            ]
+        },
+        {
+            "certification_name": "AI Engineering Specialization",
+            "issuer": "Scrimba",
+            "issue_date": "Issued Mar 2024",
+            "credential_id": "Credential ID GANNTUR4L26C",
+            "skills": "Large Language Models (LLM) · Artificial Intelligence (AI) · Prompt Engineering",
+            "certificates_or_media": [
+                "AI Engineering Specialization"
+            ]
+        },
+        {
+            "certification_name": "Supply Chain Analytics Specialization",
+            "issuer": "Rutgers University",
+            "issue_date": "Issued Jan 2024",
+            "credential_id": "Credential ID 4LXCK6T92GYY",
+            "skills": "Inventory Analysis · Demand Forecasting · Supply Chain Risk Management · Business Analytics · Forecasting · Supply Chain",
+            "certificates_or_media": [
+                "Supply Chain Analytics Specialization"
+            ]
+        },
+        {
+            "certification_name": "IBM Data Analyst Specialization",
+            "issuer": "IBM",
+            "issue_date": "Issued Sep 2022",
+            "credential_id": "Credential ID 68VUENLDVVJ5",
+            "skills": "Python · Data Visualization (DataViz) · Microsoft Excel · Python Programming · Business Intelligence (BI) · Data Analysis · SQL",
+            "certificates_or_media": [
+                "IBM Data Analyst Specialization"
+            ]
+        },
+        {
+            "certification_name": "Google Project Management: Specialization",
+            "issuer": "Google",
+            "issue_date": "Issued May 2022",
+            "credential_id": "Credential ID EQDFTKPMCPVT",
+            "skills": "Lean Six Sigma",
+            "certificates_or_media": [
+                "Google Project Management: Specialization"
+            ]
+        }
+    ],
+    "Posts": [
+        {
+            "Дата": "6d •6 days ago",
+            "Автор": "Egor ZubenkoEgor Zubenko",
+            "Контент": "Build a Machine Learning Model Skill Path fromCodecademy!So, it was useful to refresh my knowledge of regression, classification, and working with PyTorch and scikit-learn.",
+            "Реакции": "9Maksim Stepura and 8 others",
+            "Комментарии": "1 comment",
+            "Репосты": "0",
+            "Впечатления": "N/A"
+        },
+        {
+            "Дата": "1mo •1 month ago",
+            "Автор": "Egor ZubenkoEgor Zubenko",
+            "Контент": "It really sounds interesting ))\"\"\"Based on our interactions, it seems you have a strong interest in data analysis, AI systems, cryptography, and project management. A career path you might enjoy, which perhaps hasn’t crossed your mind, could be **AI Product Manager or AI Solutions Architect**.Here’s why:1. **AI Product Manager**: You already work with advanced analytics, machine learning, and agent-based systems like LangGraph and CrewAI. This role would allow you to combine your deep understanding of data, product development, and market trends. You’d focus on developing AI-driven products that optimize workflows, which aligns well with your interest in call center automation and optimizing operator efficiency.2. **AI Solutions Architect**: This position would involve designing and implementing AI systems tailored to specific business needs. Given your experience with automation projects, especially in logistics and call centers, you’d excel in crafting custom AI models that solve practical problems in CPA marketing or supplement production logistics.Both of these roles combine your technical expertise with strategic planning, and they allow you to leverage your knowledge of emerging technologies, particularly in AI and blockchain, to drive innovation within businesses.Does this path spark any new interest or ideas for you?\"\"\"…more",
+            "Реакции": "2Maksim Stepura and 1 other",
+            "Комментарии": "1 comment",
+            "Репосты": "0",
+            "Впечатления": "N/A"
+        },
+        {
+            "Дата": "8mo •9 months ago",
+            "Автор": "Egor ZubenkoEgor Zubenko",
+            "Контент": "I’m happy to share that I’ve obtained the AI Engineering course fromScrimbaand highly (!) recommend it.It gives not only theoretical knowledge but also practical skills in AI application development. The instructors and course materials are top! This course is beneficial for anyone looking to dive deeper into AI.P.S. I also had to start learning JavaScript from scratch to fully engage with the course content )))hashtag#LLMhashtag#AIEngineeringhashtag#ArtificialIntelligence…more",
+            "Реакции": "9",
+            "Комментарии": "6 comments",
+            "Репосты": "0",
+            "Впечатления": "N/A"
+        },
+        {
+            "Дата": "8mo •9 months ago",
+            "Автор": "Egor ZubenkoEgor Zubenko",
+            "Контент": "Hello!While working on a new feature of the system, I encountered a problem that I do not yet understand how to solve.So, there is a database that will be regularly updated and expanded with new content. Vectors are created using OpenAI tools (embedding), they are then saved in the database along with functionality for searching for similar vectors.❓The question itself is: How can we effectively maintain the relevance of these vectors, minimizing the need for their constant recalculation when changes are made to the content? Is it possible to use metadata, for example, by adding a timestamp to it?The structure of the table in the database is as follows:- id: a unique document identifier.- content: textual content of the document (in my case - chunk).- metadata: document metadata in JSONB format.- embedding: vector representation of the document with a dimension of 1536.…more",
+            "Реакции": "2",
+            "Комментарии": "0",
+            "Репосты": "0",
+            "Впечатления": "N/A"
+        },
+        {
+            "Дата": "1yr •1 year ago",
+            "Автор": "Egor ZubenkoEgor Zubenko",
+            "Контент": "🎓 Excited to announce that I've completed the Supply Chain Management Specialization byCourseraandRutgers Universityof New Jersey! 🚀 Studying onCourseraoffered a cool opportunity to expand skills while diving deeper into industries I work with. Looking forward to implementing this new knowledge in developing SCM systems!hashtag#SupplyChainManagementhashtag#LifelongLearnerhashtag#Courserahashtag#RutgersUniversity…more",
+            "Реакции": "14",
+            "Комментарии": "2 comments",
+            "Репосты": "0",
+            "Впечатления": "N/A"
+        }
+    ]
+}
