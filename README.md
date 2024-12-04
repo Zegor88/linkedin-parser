@@ -34,7 +34,3 @@
 - **Этические аспекты:** Убедитесь, что использование скрипта соответствует политике LinkedIn.
 - **Скорость запросов:** Чтобы избежать блокировок со стороны LinkedIn, добавлены задержки (time.sleep) между действиями.
 - **Обновление структуры:** LinkedIn может изменять структуру своих страниц, поэтому XPath и классы элементов могут потребовать обновления.
-
-## Авторы
-Скрипт основан на примерах из репозиториев [LinkedIn-Profile-Scrapper-in-Python](https://github.com/laxmimerit/LinkedIn-Profile-Scrapper-in-Python) и [WebScraping_Linkedin](https://github.com/MariyaSha/WebScraping_Linkedin), с доработками и дополнениями.
-
